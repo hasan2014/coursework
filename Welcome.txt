@@ -1,0 +1,12 @@
+Welcome to Wakari Enterprise!
+
+This file is located in the shared project directory.  
+All members of the project have access to the files in this directory.
+
+The public directory is for files that you want to share (read-only) with people that are not members of the project.  
+The project must be a Public project in order for non-team members to access the public directory.  
+
+The envs folder is the recommended location for creating project environments.
+
+See the Wakari Enterprise documentation for more information.  http://docs.wakari.io
+
